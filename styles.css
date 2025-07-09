@@ -1,0 +1,4 @@
+
+body { font-family: Arial, sans-serif; text-align: center; margin-top: 20px; background-color: #eef; }
+button { margin: 10px; padding: 10px 20px; font-size: 16px; cursor: pointer; }
+#game-container canvas { margin-top: 20px; border: 2px solid #333; border-radius: 8px; }
